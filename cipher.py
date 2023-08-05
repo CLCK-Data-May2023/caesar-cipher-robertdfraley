@@ -15,4 +15,4 @@ for letter in sentence:
     else:
         new_sentence += letter
 
-print(new_sentence)
+print("The encrypted sentence is:", new_sentence)
