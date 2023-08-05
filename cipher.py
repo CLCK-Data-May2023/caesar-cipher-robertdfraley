@@ -1,3 +1,5 @@
+#Week 3 assignment - Caesar Cipher
+
 sentence = input("Please enter a plain text sentence: ")
 sentence = sentence.lower()
 
